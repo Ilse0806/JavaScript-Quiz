@@ -221,6 +221,3 @@ addClickOnAnswers();
 changeImg ();
 
 enableNextQuestion();
-
-// add a score keeper, which will remember which answered were answered incorrectly and how many point the player has
-// add functions to be able to display the open questions and a way to be able to input the answer to these questions
